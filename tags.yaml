@@ -27,6 +27,8 @@ no_access:
 #Wabbajack Commands
 api:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/API.md
+broken_links:
+    text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/broken.md
 Compatibility:
     text: https://raw.githubusercontent.com/wabbajack-tools/discord_bot_tags/main/tags/permanent/general/Compatibility.md 
 fal:
